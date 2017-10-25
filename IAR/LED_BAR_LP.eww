@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Bar_Button.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Layers1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\WindowLifter.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
